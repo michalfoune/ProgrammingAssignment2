@@ -1,6 +1,6 @@
 ## Functions for computing the inverse of a matrix and caching the result of
 ## the costly computation
-## by Michal Foune, 22 Feb 2015
+## by Michal Foune, 22 Feb 2015, Assignment 2
 
 ## This function is used to cache the inverse of the matrix
 
